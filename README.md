@@ -8,4 +8,4 @@ The following search algorithms were implemented:
 + Bidirectional Search
 + Iterative Deepening A Star
 
-  *Note: You will need the Splashkit library and .NET 6.0 or above to run the application
+*Note: You will need the Splashkit library and .NET 6.0 or above to run the application
