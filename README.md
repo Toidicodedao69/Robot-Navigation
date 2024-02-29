@@ -4,8 +4,8 @@ The following search algorithms were implemented:
 + Depth-First Search
 + Breadth-First Search
 + Greedy Best First Search
-+ A Star
++ A*
 + Bidirectional Search
-+ Iterative Deepening A Star
++ Iterative Deepening A*
 
 *Note: You will need the Splashkit library and .NET 6.0 or above to run the application
