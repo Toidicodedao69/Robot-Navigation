@@ -17,6 +17,6 @@ Please refer to the [report](Report.pdf) about:
 **Note: You will need the Splashkit library and .NET 6.0 or above to run the application**
 
 The following are sample images of working application:
-![Base State](./Sample Images/Base State.png)
-![DFS](./Sample Images/DFS.png)
-![BFS](./Sample Images/BFS.png)
+![Base State]("Sample Images/Base State.png")
+![DFS]("Sample Images/DFS.png")
+![BFS]("Sample Images/BFS.png")
