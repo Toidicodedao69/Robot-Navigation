@@ -8,4 +8,10 @@ The following search algorithms were implemented:
 + Bidirectional Search
 + Iterative Deepening A*
 
+Please refer to the [report](Report.pdf) about:
++ How to run the application
++ Details of the algorithms and their implementations
++ Results of test cases
++ Bugs found
+  
 *Note: You will need the Splashkit library and .NET 6.0 or above to run the application
