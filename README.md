@@ -14,4 +14,9 @@ Please refer to the [report](Report.pdf) about:
 + Results of test cases
 + Bugs found
   
-*Note: You will need the Splashkit library and .NET 6.0 or above to run the application
+**Note: You will need the Splashkit library and .NET 6.0 or above to run the application**
+
+The following are sample images of working application:
+[Base State](Sample Images/Base State.png)
+[DFS](Sample Images/DFS.png)
+[BFS](Sample Images/BFS.png)
