@@ -1,4 +1,4 @@
-A C# (.NET) program with GUI that solves the classic Robot Navigation problem.
+## A C# (.NET) program with GUI that solves the classic Robot Navigation problem.
 
 The following search algorithms were implemented:
 + Depth-First Search
@@ -16,11 +16,11 @@ Please refer to the [report](Report.pdf) about:
   
 **Note: You will need the Splashkit library and .NET 6.0 or above to run the application**
 
-The following are sample images of working application:
+## Sample images of working application:
 
-+ The $\color{red}{red box}$ shows the initial position of the robot
-+ The $\color{green}{green boxes}$ show the goal positions
-+ The $\color{blue}{blue boxes}$ show the optimal path to the nearest goal
++ The $\color{red}{red}$ box shows the initial position of the robot
++ The $\color{green}{green}$ boxes show the goal positions
++ The $\color{blue}{blue}$ boxes show the optimal path to the nearest goal
 
 ![Base State](Sample%20Images/Base%20State.png)
 
