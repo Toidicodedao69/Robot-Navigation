@@ -1,4 +1,4 @@
-## A C# (.NET) program with GUI that solves the classic Robot Navigation problem.
+## A C# (.NET) program with GUI that find optimal routes in wall mazes
 
 The following search algorithms were implemented:
 + Depth-First Search
